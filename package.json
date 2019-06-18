@@ -1,5 +1,6 @@
 {
   "name": "hx-emedia",
+  "version": "1.0.0",
   "description": "环信媒体依赖",
   "main": "index.js",
   "devDependencies": {
