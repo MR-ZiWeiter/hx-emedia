@@ -1,0 +1,16 @@
+{
+  "name": "hx-emedia",
+  "description": "环信媒体依赖",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-ZiWeiter/hx-emedia.git"
+  },
+  "author": "ziweiter",
+  "license": "MIT",
+  "dependencies": {}
+}
